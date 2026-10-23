@@ -11,3 +11,5 @@ personal, single-user use.
 - `privacy.html` — privacy policy
 
 No scripts, no analytics, no tracking. Static HTML only.
+
+(Thanks to https://github.com/nubsors/gdrive-oauth-pages for providing this repo)
